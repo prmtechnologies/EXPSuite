@@ -1,0 +1,6 @@
+# git ignore file
+GitDemo/GitDemo/GitDemo.csproj.user
+GitDemo/GitDemo/obj/*
+GitDemo/GitDemo/Web.Debug.config
+GitDemo/GitDemo/Web.Release.config
+GitDeom/GitDemo/Properties/AssemblyInfo.cs
